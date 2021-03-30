@@ -1,2 +1,2 @@
-# Eren Atcı
+# Internet Programming
 Internet Programming Course
